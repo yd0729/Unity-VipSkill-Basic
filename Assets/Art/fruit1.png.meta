@@ -140,7 +140,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: fruit1_0
+      name: "\u83E0\u841D"
       rect:
         serializedVersion: 2
         x: 35
@@ -148,7 +148,7 @@ TextureImporter:
         width: 60
         height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -169,7 +169,7 @@ TextureImporter:
         width: 128
         height: 82
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -190,7 +190,7 @@ TextureImporter:
         width: 126
         height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -211,7 +211,7 @@ TextureImporter:
         width: 128
         height: 114
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -224,7 +224,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fruit1_4
+      name: "\u5C71\u7AF9"
       rect:
         serializedVersion: 2
         x: 201
@@ -232,7 +232,7 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -245,7 +245,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fruit1_5
+      name: "\u7315\u7334\u6843"
       rect:
         serializedVersion: 2
         x: 401
@@ -253,7 +253,7 @@ TextureImporter:
         width: 128
         height: 122
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -274,7 +274,7 @@ TextureImporter:
         width: 128
         height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -287,7 +287,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: fruit1_7
+      name: "\u5927\u767D\u83DC"
       rect:
         serializedVersion: 2
         x: 218
@@ -295,7 +295,7 @@ TextureImporter:
         width: 94
         height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -316,7 +316,7 @@ TextureImporter:
         width: 90
         height: 128
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -339,15 +339,15 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      fruit1_7: 1402961344
+      "\u83E0\u841D": -514904192
       fruit1_2: -392906084
       fruit1_1: -274603370
-      fruit1_4: -1686692964
+      "\u7315\u7334\u6843": 9492982
+      "\u5927\u767D\u83DC": 1402961344
       fruit1_6: 559607015
       fruit1_8: 1157968292
-      fruit1_5: 9492982
-      fruit1_0: -514904192
       fruit1_3: -523170484
+      "\u5C71\u7AF9": -1686692964
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
